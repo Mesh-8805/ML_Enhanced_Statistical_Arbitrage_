@@ -1,0 +1,7 @@
+configuration,sharpe,max_drawdown_pct,trades,hit_rate_pct,gross_sharpe
+Full system,0.06,-4.88,499.0,56.5,0.38
+- clustering (brute force + FDR),0.37,-1.46,329.0,57.1,0.62
+- Kalman (static OLS),-0.01,-5.52,527.0,49.3,0.32
+"- regime gate (HMM: an extension, not built)",,,,,
+- meta-labeler,-0.16,-5.62,671.0,55.6,0.2
+- DL forecaster,0.06,-4.88,499.0,56.5,0.38

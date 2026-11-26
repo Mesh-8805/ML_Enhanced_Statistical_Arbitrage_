@@ -1,0 +1,15 @@
+sector,trades,hit_rate_pct,stop_exits,net_pnl_lakh
+Auto,22,50.0,3,-4.77
+Banks,25,32.0,4,-2.69
+Chemicals,3,66.7,0,0.47
+Consumer,8,50.0,0,-1.4
+Energy,12,83.3,2,2.51
+FMCG,9,66.7,1,1.56
+Financials,16,75.0,1,2.23
+IT,8,87.5,0,1.45
+Industrials,7,42.9,0,-3.65
+Metals,13,69.2,1,0.69
+Pharma,4,25.0,0,-2.84
+Power,9,55.6,0,-0.11
+Realty,6,66.7,0,0.9
+cross-sector,357,56.0,12,8.72
