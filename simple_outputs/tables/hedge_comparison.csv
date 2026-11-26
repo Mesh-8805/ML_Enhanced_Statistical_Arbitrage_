@@ -1,0 +1,4 @@
+hedge,sharpe,annual_return_pct,max_drawdown_pct,turnover_per_year,trades,hit_rate_pct,avg_holding_days,stop_exit_pct
+static,-0.16,-0.42,-11.13,10.0,1142,48.9,10.4,19.5
+rolling,-0.69,-2.18,-26.15,11.9,1359,51.8,9.6,4.3
+kalman,-0.0,-0.01,-6.59,7.7,887,55.4,3.0,3.8
