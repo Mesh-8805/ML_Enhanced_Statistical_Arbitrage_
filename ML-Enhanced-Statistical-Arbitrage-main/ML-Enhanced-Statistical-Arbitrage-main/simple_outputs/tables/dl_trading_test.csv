@@ -1,5 +1,0 @@
-gate,sharpe,max_drawdown_pct,trades,hit_rate_pct
-none (every trade),-0.0,-6.59,887,55.4
-ar1,-0.0,-6.59,887,55.4
-ou,-0.0,-6.59,887,55.4
-tcn,-0.0,-6.59,887,55.4

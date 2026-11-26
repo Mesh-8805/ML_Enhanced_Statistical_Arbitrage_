@@ -1,5 +1,0 @@
-strategy,annual_return_pct,annual_vol_pct,sharpe,sortino,max_drawdown_pct,trades,hit_rate_pct,avg_holding_days,stop_exit_pct,turnover_per_year,corr_with_nifty
-coint_static,-0.54,2.53,-0.2,-0.28,-11.92,1121.0,45.6,9.9,20.0,9.8,0.077
-distance_static,-0.9,1.88,-0.47,-0.65,-11.52,1172.0,46.6,11.2,21.8,10.2,0.077
-random_static,-1.89,3.06,-0.61,-0.83,-22.49,712.0,46.3,23.9,19.9,6.3,0.096
-NIFTY50_buy_and_hold,8.92,16.12,0.61,0.84,-38.44,,,,,,

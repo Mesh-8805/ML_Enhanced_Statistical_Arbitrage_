@@ -1,4 +1,0 @@
-strategy,annual_return_pct,annual_vol_pct,sharpe,sortino,max_drawdown_pct,trades,hit_rate_pct,avg_holding_days,stop_exit_pct
-"coint_static (signal t, trade t+1)",-0.54,2.53,-0.2,-0.28,-11.92,1121,45.6,9.9,20.0
-one extra day of delay (trade t+2),-0.3,2.48,-0.11,-0.16,-14.13,1116,46.4,9.8,20.0
-shuffled trading-window returns,-0.2,2.61,-0.06,-0.09,-8.73,1284,47.8,9.3,24.5
